@@ -33,7 +33,6 @@ namespace Datos
             }
             catch (Exception ex)
             {
-
             }
             return valido;
         }
